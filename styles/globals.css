@@ -1,0 +1,10 @@
+body {
+  font-family: system-ui, sans-serif;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+a {
+  color: blue;
+  text-decoration: underline;
+}

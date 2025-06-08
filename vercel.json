@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/admin",
+      "destination": "/static/admin/index.html",
+      "permanent": true
+    }
+  ]
+}
